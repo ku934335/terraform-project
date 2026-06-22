@@ -1,0 +1,3 @@
+vmname   = "tfvm01"
+username = "azureuser"
+password = "P@ssword123!"
